@@ -1,8 +1,8 @@
-## Hi there 👋
-![IMG_8391](https://github.com/user-attachments/assets/cc4bff77-eb83-413e-bc58-3896242a1c3e)
-I'm a video editor starting my journey coding;
-learning the basics and planning on a full stack journey;
-you can reach me at sam@110.es;
+## hola! :)
+![IMG_8391](https://github.com/user-attachments/assets/cc4bff77-eb83-413e-bc58-3896242a1c3e) 
+- I'm a video editor starting my journey coding
+- learning the basics and planning on a full stack journey
+- you can reach me at sam@110.es
 
 <!--
 **sanchez-sam/sanchez-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
